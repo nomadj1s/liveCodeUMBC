@@ -7,14 +7,17 @@
 
 # ## Import Things
 
+# In[1]:
 
 
 import numpy as np
+
 import matplotlib.pyplot as plt
 
 
 # ## plotSeries
 
+# In[2]:
 
 
 def plotSeries(y,x=None,xMin=None,xMax=None,xVert=None,yTitle='',xTitle='',
@@ -122,10 +125,12 @@ def plotSeries(y,x=None,xMin=None,xMax=None,xVert=None,yTitle='',xTitle='',
     return None
 
 
+# In[3]:
 
 
 
 
+# In[ ]:
 
 
 
